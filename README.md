@@ -2,12 +2,6 @@
 
 **Fullstack Developer** building modern web applications with **Next.js**.
 
-🚀 **Currently Building**
-
-* AI-Powered Travel Planner
-* Hotel Management System
-* Telegram Bingo Platform
-
 🛠️ **Tech Stack**
 Next.js • React • TypeScript • Node.js • Express • MongoDB • Redis • Tailwind CSS
 
