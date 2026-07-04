@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Mikyas 👋
 
-<!--
-**MikeWeDev/MikeWeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Developer** building real-world web applications with **Next.js**.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into scalable, user-focused applications while continuously improving my frontend and backend development skills. My goal is to build production-ready software that solves real problems and delivers great user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+
+* AI-Powered Travel Planner
+* Hotel Management System
+* Telegram Bingo Platform
+* Fullstack Web Applications
+* REST API Integrations
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React
+* Next.js
+* Tailwind CSS
+* Redux Toolkit
+
+**Backend**
+
+* Node.js
+* Express.js
+* REST APIs
+* MongoDB
+* Redis
+
+**Tools**
+
+* Git
+* GitHub
+* Postman
+* Vercel
+* Render
+
+## 🌱 Currently Learning
+
+* Scalable Fullstack Architecture
+* System Design Fundamentals
+* Performance Optimization
+* Testing & Best Practices
+
+## 📌 Featured Projects
+
+* ✈️ AI-Powered Travel Planner
+* 🏨 Hotel Management System
+* 🎮 Telegram Bingo Platform
+* 🌐 Modern Fullstack Applications
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/MikeWebDev
+* Portfolio: https://mikereactportfolio.netlify.app
+* LinkedIn: https://www.linkedin.com/in/mikiyas-negash-01b400263
+
+---
+
+> Building real-world applications, one project at a time.
