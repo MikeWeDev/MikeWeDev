@@ -1,66 +1,20 @@
 # Hi, I'm Mikyas 👋
 
-**Fullstack Developer** building real-world web applications with **Next.js**.
+**Fullstack Developer** building modern web applications with **Next.js**.
 
-I enjoy turning ideas into scalable, user-focused applications while continuously improving my frontend and backend development skills. My goal is to build production-ready software that solves real problems and delivers great user experiences.
-
-## 🚀 What I'm Building
+🚀 **Currently Building**
 
 * AI-Powered Travel Planner
 * Hotel Management System
 * Telegram Bingo Platform
-* Fullstack Web Applications
-* REST API Integrations
 
-## 🛠️ Tech Stack
+🛠️ **Tech Stack**
+Next.js • React • TypeScript • Node.js • Express • MongoDB • Redis • Tailwind CSS
 
-**Frontend**
+🌱 **Currently Learning**
+System Design • Scalable Architecture • Performance Optimization
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
-* React
-* Next.js
-* Tailwind CSS
-* Redux Toolkit
+📫 **Connect**
 
-**Backend**
-
-* Node.js
-* Express.js
-* REST APIs
-* MongoDB
-* Redis
-
-**Tools**
-
-* Git
-* GitHub
-* Postman
-* Vercel
-* Render
-
-## 🌱 Currently Learning
-
-* Scalable Fullstack Architecture
-* System Design Fundamentals
-* Performance Optimization
-* Testing & Best Practices
-
-## 📌 Featured Projects
-
-* ✈️ AI-Powered Travel Planner
-* 🏨 Hotel Management System
-* 🎮 Telegram Bingo Platform
-* 🌐 Modern Fullstack Applications
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/MikeWebDev
-* Portfolio: https://mikereactportfolio.netlify.app
-* LinkedIn: https://www.linkedin.com/in/mikiyas-negash-01b400263
-
----
-
-> Building real-world applications, one project at a time.
+* 🌐 Portfolio: https://mikereactportfolio.netlify.app
+* 💼 LinkedIn: https://www.linkedin.com/in/mikiyas-negash-01b400263
