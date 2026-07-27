@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="Waving Hand">, I'm Mikyas
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="Waving Hand">, I'm Mikiyas
 </h1>
 
 <p align="center">
