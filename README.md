@@ -7,24 +7,37 @@
 </p>
 
 <p align="center">
-  Fullstack Developer building modern, scalable web applications with <strong>Next.js</strong>.
+  Fullstack Developer building modern, scalable web applications with <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Node.js</strong>.
+</p>
+
+<p align="center">
+  <a href="https://mikereactportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mikiyas-negash-01b400263">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,redis,tailwind,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,postgres,mongodb,redis,tailwind,git,github,vscode" />
 </p>
+
+---
 
 ### 🌱 Currently Learning
 
-* System Design
-* Scalable Architecture
-* Performance Optimization
+- System Design
+- Scalable Architecture
+- Performance Optimization
+
+---
 
 ### 📫 Connect
 
-* 🌐 Portfolio: https://mikereactportfolio.netlify.app
-* 💼 LinkedIn: https://www.linkedin.com/in/mikiyas-negash-01b400263
+- 🌐 Portfolio: [mikereactportfolio.netlify.app](https://mikereactportfolio.netlify.app)
+- 💼 LinkedIn: [Mikiyas Negash](https://www.linkedin.com/in/mikiyas-negash-01b400263)
