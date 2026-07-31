@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,postgres,mongodb,redis,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,postgres,mongodb,redis,tailwind,git,github" />
 </p>
 
 ---
@@ -34,10 +34,3 @@
 - System Design
 - Scalable Architecture
 - Performance Optimization
-
----
-
-### 📫 Connect
-
-- 🌐 Portfolio: [mikereactportfolio.netlify.app](https://mikereactportfolio.netlify.app)
-- 💼 LinkedIn: [Mikiyas Negash](https://www.linkedin.com/in/mikiyas-negash-01b400263)
