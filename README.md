@@ -21,24 +21,15 @@
 
 ---
 
-### 🚀 What I Do
+### 🚀 What I Build
 
-- 💻 **Full-Stack Web Development:** Building scalable web applications using **Next.js**, **React**, **TypeScript**, **Node.js**, and modern backend technologies.
-
-- 🏢 **SaaS & Business Systems:** Developing dashboards, management systems, and custom web applications that solve real business problems.
-
-- ⚙️ **Backend & API Development:** Designing secure REST APIs, database systems, authentication flows, and backend architectures using **Node.js**, **Express**, **PostgreSQL**, **MongoDB**, and **Redis**.
-
-- 🤖 **AI Integration:** Adding practical AI features into applications using AI APIs, automation workflows, and intelligent user experiences.
-
-- 📱 **Telegram Bots & Automation:** Building Telegram-based applications, bots, and automation systems that connect users, businesses, and services.
-
-- 💳 **Third-Party Integrations:** Implementing external services such as payment integrations, APIs, and other platform connections.
-
-- ⚡ **Real-Time Applications:** Creating live systems using technologies like **Socket.IO** for real-time communication and updates.
+| | |
+|---|---|
+| 💻 **Full-Stack Applications** | Building scalable web applications, SaaS products, dashboards, and business systems using modern frontend, backend, and database technologies. |
+| 🤖 **AI & Automation Solutions** | Integrating AI features, building Telegram bots, creating automation workflows, and connecting intelligent services through APIs. |
+| ⚡ **Real-Time & Connected Systems** | Developing real-time applications, WebSocket-based features, payment integrations, and third-party platform connections. |
 
 ---
-
 ### 🛠️ Tech Stack
 
 <p align="center">
