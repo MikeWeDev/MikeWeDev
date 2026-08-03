@@ -33,7 +33,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,postgres,redis,tailwind,socketio,linux,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,postgres,redis,tailwind,linux,git" alt="Tech Stack" />
 </p>
 
 ---
