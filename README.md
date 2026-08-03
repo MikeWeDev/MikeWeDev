@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;SaaS+%26+Web+Application+Builder;Next.js+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;SaaS+%26+Web+Application+Builder;AI-Powered+Applications+%26+Automation;Next.js+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Fullstack Developer</strong> specializing in scalable web applications, real-time systems, and modern SaaS products.
+  <strong>Fullstack Developer</strong> specializing in AI-powered applications and automation.
 </p>
 
 <p align="center">
@@ -23,9 +23,19 @@
 
 ### 🚀 What I Do
 
-- 💻 **Frontend:** Building responsive, high-performance UIs using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
-- ⚙️ **Backend:** Designing REST & WebSocket APIs with **Node.js**, **Express**, **Socket.IO**, and **MongoDB / PostgreSQL**.
-- 🤖 **Integrations:** Developing interactive applications, real-time tools, and custom Telegram bots.
+- 💻 **Full-Stack Web Development:** Building scalable web applications using **Next.js**, **React**, **TypeScript**, **Node.js**, and modern backend technologies.
+
+- 🏢 **SaaS & Business Systems:** Developing dashboards, management systems, and custom web applications that solve real business problems.
+
+- ⚙️ **Backend & API Development:** Designing secure REST APIs, database systems, authentication flows, and backend architectures using **Node.js**, **Express**, **PostgreSQL**, **MongoDB**, and **Redis**.
+
+- 🤖 **AI Integration:** Adding practical AI features into applications using AI APIs, automation workflows, and intelligent user experiences.
+
+- 📱 **Telegram Bots & Automation:** Building Telegram-based applications, bots, and automation systems that connect users, businesses, and services.
+
+- 💳 **Third-Party Integrations:** Implementing external services such as payment integrations, APIs, and other platform connections.
+
+- ⚡ **Real-Time Applications:** Creating live systems using technologies like **Socket.IO** for real-time communication and updates.
 
 ---
 
@@ -39,15 +49,9 @@
 
 ### 🌱 Currently Focusing On
 
-- System Design & Distributed Architectures
-- Performance Optimization & Clean Code Patterns
-- Building scalable SaaS products
+- Building scalable SaaS applications
+- AI-powered products and automation systems
+- System design and clean architecture
+- Improving software engineering practices
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
