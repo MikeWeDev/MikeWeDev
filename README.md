@@ -1,48 +1,249 @@
+<!-- HERO -->
+
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="Waving Hand">, I'm Mikiyas
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="Waving hand" />, I'm Mikiyas
 </h1>
 
+<h3 align="center">
+  Full-Stack Developer · Building Modern Web Applications & Connected Systems
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;SaaS+%26+Web+Application+Builder;AI-Powered+Applications+%26+Automation;Next.js+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;SaaS+%26+Web+Application+Builder;AI-Powered+Applications+%26+Automation;Real-Time+%7C+APIs+%7C+Connected+Systems"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <strong>Fullstack Developer</strong> specializing in AI-powered applications and automation.
+  I build modern full-stack applications — from polished user interfaces
+  to APIs, databases, real-time features, AI integrations, and third-party services.
 </p>
 
 <p align="center">
   <a href="https://mikereactportfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Portfolio-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mikiyas-negash-01b400263">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Full-Stack Applications
+
+I build complete web applications from frontend to backend.
+
+* SaaS products
+* Dashboards & admin systems
+* Business applications
+* REST APIs & authentication
+* Database-driven applications
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation
+
+I integrate intelligent services and automate workflows.
+
+* AI-powered application features
+* API integrations
+* Telegram bots
+* Automation workflows
+* Connected third-party services
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Real-Time Systems
+
+I build applications where updates happen instantly.
+
+* Real-time chat
+* Live notifications
+* Socket.IO & WebSockets
+* Live status updates
+* Connected multi-user systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Payments & Integrations
+
+I connect applications with external platforms and services.
+
+* Payment integrations
+* Webhooks
+* Transaction workflows
+* Third-party APIs
+* Event-driven integrations
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" alt="Frontend technologies" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
+</p>
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Databases" />
+</p>
+
+### Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman" alt="Tools" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🍽️ Restaurant Ordering Platform
+
+A connected ordering system designed around multiple users and real-time workflows.
+
+```text
+Customer
+    ↓
+Places Order
+    ↓
+Backend API
+    ↓
+Database
+    ↓
+Real-Time Updates
+    ↓
+Kitchen / Waiter / Admin
+```
+
+**Focus:** Full-stack architecture · Real-time communication · Authentication · Database design
+
+---
+
+### ✈️ AI Travel Planner
+
+An AI-powered application designed to help users plan and organize trips.
+
+**Focus:** AI integration · APIs · Full-stack application development · User experience
+
+---
+
+### 🏨 Hotel Management System
+
+A full-stack application for managing hotel-related operations and data.
+
+**Focus:** Frontend · Backend APIs · Authentication · Database operations
+
+<br />
+
+<p align="center">
+  <a href="https://mikereactportfolio.netlify.app">
+    <strong>→ Explore all projects on my portfolio</strong>
   </a>
 </p>
 
 ---
 
-### 🚀 What I Build
+## 🧠 How I Think About Development
 
-| | |
-|---|---|
-| 💻 **Full-Stack Applications** | Building scalable web applications, SaaS products, dashboards, and business systems using modern frontend, backend, and database technologies. |
-| 🤖 **AI & Automation Solutions** | Integrating AI features, building Telegram bots, creating automation workflows, and connecting intelligent services through APIs. |
-| ⚡ **Real-Time & Connected Systems** | Developing real-time applications, WebSocket-based features, payment integrations, and third-party platform connections. |
+```text
+Problem
+   ↓
+Understand the requirements
+   ↓
+Design the structure
+   ↓
+Build the solution
+   ↓
+Test & debug
+   ↓
+Improve
+   ↓
+Deploy
+```
+
+I enjoy understanding how systems work end-to-end — not just making the UI work, but connecting the frontend, backend, database, external services, and real-time communication into one complete application.
 
 ---
-### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,postgres,redis,tailwind,linux,git" alt="Tech Stack" />
+## 🌱 Currently Focusing On
+
+<table>
+<tr>
+<td>
+
+🧪 **Testing**
+Unit, integration, and application testing
+
+</td>
+<td>
+
+⚡ **Real-Time Systems**
+Socket.IO, WebSockets, and event-driven features
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🗄️ **Backend Architecture**
+PostgreSQL, Redis, APIs, and scalable systems
+
+</td>
+<td>
+
+🏗️ **Software Engineering**
+System design, clean architecture, and production practices
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  I'm interested in building useful products, solving real problems, and working on modern full-stack applications.
 </p>
 
----
+<p>
+  <a href="https://mikereactportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mikiyas-negash-01b400263">
+    <img src="https://img.shields.io/badge/LinkedIn-Mikiyas_Negash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-### 🌱 Currently Focusing On
+<br />
 
-- Building scalable SaaS applications
-- AI-powered products and automation systems
-- System design and clean architecture
-- Improving software engineering practices
-
----
+<p align="center">
+  <i>Building, learning, and improving — one project at a time.</i>
+</p>
