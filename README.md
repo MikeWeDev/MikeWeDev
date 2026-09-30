@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Developer · Building Modern Web Applications & Connected Systems
+  Full-Stack Developer · Building Modern Web Applications & Connected Systems.
 </h3>
 
 <p align="center">
