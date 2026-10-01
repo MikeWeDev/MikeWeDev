@@ -5,19 +5,20 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Developer · Building Modern Web Applications & Connected Systems.
+  Full-Stack Developer · AI-Powered Applications · Automation · Real-Time Systems
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;SaaS+%26+Web+Application+Builder;AI-Powered+Applications+%26+Automation;Real-Time+%7C+APIs+%7C+Connected+Systems"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;JavaScript+%2F+TypeScript+Developer;AI-Powered+Application+Builder;SaaS+%26+Web+Application+Builder;Real-Time+%7C+APIs+%7C+Automation"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  I build modern full-stack applications — from polished user interfaces
-  to APIs, databases, real-time features, AI integrations, and third-party services.
+  I build full-stack applications with modern JavaScript and TypeScript technologies,
+  connecting user interfaces, APIs, databases, real-time systems, AI services,
+  and third-party integrations into complete products.
 </p>
 
 <p align="center">
@@ -29,6 +30,8 @@
   </a>
 </p>
 
+---
+
 ## 🚀 What I Build
 
 <table>
@@ -37,26 +40,29 @@
 
 ### 💻 Full-Stack Applications
 
-I build complete web applications from frontend to backend.
+I build complete applications across the frontend, backend, and data layers.
 
 * SaaS products
-* Dashboards & admin systems
 * Business applications
+* Admin dashboards
 * REST APIs & authentication
 * Database-driven applications
+* Full-stack Next.js & Express applications
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🤖 AI & Automation
 
-I integrate intelligent services and automate workflows.
+I integrate AI services and external platforms into practical applications.
 
 * AI-powered application features
-* API integrations
+* AI API integrations
 * Telegram bots
-* Automation workflows
-* Connected third-party services
+* Workflow automation
+* Third-party service integrations
+* API-driven automation
 
 </td>
 </tr>
@@ -66,26 +72,29 @@ I integrate intelligent services and automate workflows.
 
 ### ⚡ Real-Time Systems
 
-I build applications where updates happen instantly.
+I build applications that require live communication and synchronized updates.
 
 * Real-time chat
 * Live notifications
 * Socket.IO & WebSockets
 * Live status updates
-* Connected multi-user systems
+* Multi-user systems
+* Event-driven features
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🔗 Payments & Integrations
 
-I connect applications with external platforms and services.
+I connect applications with external services and business workflows.
 
 * Payment integrations
 * Webhooks
 * Transaction workflows
 * Third-party APIs
 * Event-driven integrations
+* External service communication
 
 </td>
 </tr>
@@ -93,12 +102,46 @@ I connect applications with external platforms and services.
 
 ---
 
+## 🧩 Featured Projects
+
+### 🤖 AI Itinerary Planner
+
+An AI-powered travel planning application that generates personalized itineraries.
+
+**Built with:** Next.js · TypeScript · Express.js · FastAPI · AI APIs · MongoDB
+
+---
+
+### 🎯 Telegram Bingo Platform
+
+A real-time Telegram-based gaming platform with an admin dashboard and automated game management.
+
+**Built with:** Node.js · Express.js · Telegraf · MongoDB · Socket.IO · Redis · BullMQ
+
+---
+
+### 🍽️ Restaurant QR Ordering Platform
+
+A full-stack restaurant platform for digital menus, ordering, and role-based restaurant operations.
+
+**Built with:** Next.js · TypeScript · Express.js · PostgreSQL · Prisma · Socket.IO
+
+---
+
+### 🏨 Hotel Management System
+
+A database-driven application for managing hotel operations and administrative workflows.
+
+**Built with:** React · Node.js · Express.js · MongoDB
+
+---
+
 ## 🛠️ Tech Stack
 
-### Frontend
+### Languages & Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" alt="Frontend technologies" />
 </p>
 
 ### Backend & APIs
@@ -107,47 +150,76 @@ I connect applications with external platforms and services.
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
 </p>
 
-### Databases & Data
+### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Databases and infrastructure" />
 </p>
 
 ### Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman" alt="Development tools" />
 </p>
 
-## 🌱 Currently Focusing On
+---
+
+## 🧠 Engineering Focus
+
+I'm continuously improving how I design, build, and maintain production-ready applications.
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-🧪 **Testing**
-Unit, integration, and application testing
+### 🏗️ Backend Architecture
+
+* API design
+* Database modeling
+* Authentication & authorization
+* Service-layer architecture
+* PostgreSQL & MongoDB
+* Redis & caching
 
 </td>
-<td>
 
-⚡ **Real-Time Systems**
-Socket.IO, WebSockets, and event-driven features
+<td width="50%" valign="top">
+
+### ⚡ Distributed & Real-Time Systems
+
+* Socket.IO & WebSockets
+* Event-driven architecture
+* Background jobs
+* Webhooks
+* Real-time communication
+* External service integration
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="50%" valign="top">
 
-🗄️ **Backend Architecture**
-PostgreSQL, Redis, APIs, and scalable systems
+### 🧪 Software Quality
+
+* Unit testing
+* Integration testing
+* API testing
+* Error handling
+* Validation
+* Production debugging
 
 </td>
-<td>
 
-🏗️ **Software Engineering**
-System design, clean architecture, and production practices
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered Development
+
+* AI API integration
+* AI-assisted application features
+* Automation workflows
+* API orchestration
+* Building practical AI-powered products
 
 </td>
 </tr>
@@ -155,10 +227,11 @@ System design, clean architecture, and production practices
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
 <p>
-  I'm interested in building useful products, solving real problems, and working on modern full-stack applications.
+  I'm interested in building useful products, solving real-world problems,
+  and working on modern full-stack applications.
 </p>
 
 <p>
@@ -173,5 +246,5 @@ System design, clean architecture, and production practices
 <br />
 
 <p align="center">
-  <i>Building, learning, and improving — one project at a time.</i>
+  <i>Building useful software, learning continuously, and improving one project at a time.</i>
 </p>
