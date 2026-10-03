@@ -104,14 +104,6 @@ I connect applications with external services and business workflows.
 
 ## 🧩 Featured Projects
 
-### 🤖 AI Itinerary Planner
-
-An AI-powered travel planning application that generates personalized itineraries.
-
-**Built with:** Next.js · TypeScript · Express.js · FastAPI · AI APIs · MongoDB
-
----
-
 ### 🎯 Telegram Bingo Platform
 
 A real-time Telegram-based gaming platform with an admin dashboard and automated game management.
@@ -120,19 +112,19 @@ A real-time Telegram-based gaming platform with an admin dashboard and automated
 
 ---
 
-### 🍽️ Restaurant QR Ordering Platform
-
-A full-stack restaurant platform for digital menus, ordering, and role-based restaurant operations.
-
-**Built with:** Next.js · TypeScript · Express.js · PostgreSQL · Prisma · Socket.IO
-
----
-
 ### 🏨 Hotel Management System
 
 A database-driven application for managing hotel operations and administrative workflows.
 
 **Built with:** React · Node.js · Express.js · MongoDB
+
+---
+
+### 🤖 AI Itinerary Planner
+
+An AI-powered travel planning application that generates personalized itineraries.
+
+**Built with:** Next.js · TypeScript · Express.js · FastAPI · AI APIs · MongoDB
 
 ---
 
