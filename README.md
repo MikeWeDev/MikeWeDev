@@ -1,5 +1,3 @@
-<!-- HERO -->
-
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="Waving hand" />, I'm Mikiyas
 </h1>
