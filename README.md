@@ -27,9 +27,7 @@
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-------
-
+---
 ## 🚀 What I Build
 
 <table>
