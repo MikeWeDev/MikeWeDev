@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="Waving hand" />, I'm Mikiyas
 </h1>
@@ -27,7 +28,8 @@
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
----
+-------------
+
 ## 🚀 What I Build
 
 <table>
@@ -35,6 +37,7 @@
 <td width="50%" valign="top">
 
 ### 💻 Full-Stack Applications
+
 
 I build complete applications across the frontend, backend, and data layers.
 
